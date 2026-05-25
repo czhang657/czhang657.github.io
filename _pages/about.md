@@ -12,7 +12,7 @@ profile:
     <p>Worcester Polytechnic Institute</p>
     <p>Worcester, MA</p>
 
-selected_papers: false # set to true once you have selected publications in _bibliography/papers.bib
+selected_papers: true # shows publications marked selected={true} in _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
 
 announcements:
