@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint on arXiv: *Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training*.
+New preprint on arXiv: [*Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training*](https://arxiv.org/abs/2605.18822).
